@@ -16,3 +16,6 @@ Ye ek simple C program hai jo calculater par kaam karta hai.
 ## 🛠 Technologies Used
 - C Programming  
 - CLion IDE  
+## My Social Media
+GITHUB---https://github.com/OKRISHNAKUMARMEHTA) 
+LINKEDIN-www.linkedin.com/in/krishnakumarmehta89295
